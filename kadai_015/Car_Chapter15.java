@@ -23,6 +23,6 @@ public class Car_Chapter15 {
    }
 
  public void run() {
-    System.out.println("速度は " + speed + " km/h です。");
+    System.out.println("速度は時速" + speed + " km/h です。");
    }
 }
